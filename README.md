@@ -1,2 +1,3 @@
 # ESP8266-door-controller
 Use ESP8266 to control the gate,just practice,
+使用ESP8266控制楼道门锁，只是拿来练手...
